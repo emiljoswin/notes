@@ -1,3 +1,6 @@
+
+# Fuck this shit- do not look at the code here. Only look at English - lost 2 fucking hours
+
 # Lesson 1
 [Webpage](http://course-v3.fast.ai/) / [Video](https://youtu.be/BWWm4AzsdLk) /  [Lesson Forum](https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936) / [General Forum](https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934/1)
 
