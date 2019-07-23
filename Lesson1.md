@@ -291,7 +291,7 @@ This might seem weird because images have size. This is a shortcoming of current
 
 
 ```python
-bs=16 # Emil - this wasn't there before - it takes forever to complete training with full batch size
+bs=64 # Emil - this wasn't there before - it takes forever to complete training with full batch size
 data = ImageDataBunch.from_name_re(path_img, fnames, bs=bs, pat, ds_tfms=get_transforms(), size=224)
 data.normalize(imagenet_stats)
 ```
